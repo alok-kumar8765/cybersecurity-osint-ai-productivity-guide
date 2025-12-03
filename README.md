@@ -6,9 +6,41 @@ A visual, curated list of essential Dark Web/OSINT search engines and 100+ power
 
 A curated, visual guide to two critical domains: specialized tools for cybersecurity intelligence (OSINT on the Dark Web) and next-generation productivity tools powered by Artificial Intelligence.
 
+<p align="center">
+    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/stargazers">
+        <img src="https://img.shields.io/github/stars/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Star" alt="GitHub Stars"/>
+    </a>
+    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/forks">
+        <img src="https://img.shields.io/github/forks/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Fork" alt="GitHub Forks"/>
+    </a>
+    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/watchers">
+        <img src="https://img.shields.io/github/watchers/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Watch" alt="GitHub Watchers"/>
+    </a>
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-green" alt="Status Badge"/>
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs Welcome Badge"/>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License Badge"/>
+    </a>
+    <a href="[Your Facebook Profile Link]">
+        <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=flat-square&logo=facebook" alt="Facebook"/>
+    </a>
+</p>
 ---
 
-## 1. 🕵️ Dark Web Tools
+## 🧭 Table of Contents
+
+A Table of Contents is crucial for high-readability and discoverability, especially for large lists.
+
+* [1. 🕵️ Dark Web Tools (OSINT & CTI)](#1-dark-web-tools-osint--cti)
+    * [Tool Guide](#tool-guide-dark-web)
+* [2. 🤖 100+ AI Tools (Productivity & Automation)](#2-100-ai-tools-productivity--automation)
+    * [AI Tool Categories & Examples](#tool-guide-ai)
+* [🔒 Disclaimer & Attribution](#-disclaimer--attribution-crucial)
+* [🤝 Contribution](#-contribution)
+
+---
+
+## 1. 🕵️ Dark Web Tools (OSINT & CTI)
 
 <img src="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/blob/main/IMG_175.jpg" width="50%" height="50%">
 
@@ -22,19 +54,21 @@ These tools facilitate searching, browsing, and accessing data across the Dark W
 | **Intelligence** | Essential for gathering Critical Threat Intelligence (CTI) and verifying the exposure status of personal or organizational data. | Information gathered can be unreliable, misleading, or intentionally planted as a lure by malicious actors. |
 | **Privacy** | Tools like TOR offer a significant layer of anonymity and privacy for researchers and users in censored regions. | The underlying infrastructure (Tor) can be slow and is frequently monitored by state actors and security services. |
 
-### 🔍 Tool Guide
+### 🔍 Tool Guide (Dark Web) <a id="tool-guide-dark-web"></a
+
+> **Why Read This?** This guide provides the most direct and necessary links for launching your research with each tool, saving time on setup and verification.
 
 | Tool Name (Logo) | Brief Description |
 | :--- | :--- |
-| **TOR Browser** | A free, open-source web browser that routes traffic through the Tor network for anonymous web surfing. |
-| **Ahmia** | A Dark Web search engine specifically designed for searching Tor hidden services (.onion addresses). |
-| **HayStack** | A search engine that indexes a wide variety of public data breaches and security information. |
+| **TOR Browser** | A free, open-source web browser that routes traffic through the Tor network for anonymous web surfing. | [Tor Project Docs](https://www.torproject.org/docs/) | [Official Download](https://www.torproject.org/download/) |
+| **Ahmia** | A Dark Web search engine specifically designed for searching Tor hidden services (.onion addresses). | [Ahmia FAQ](https://ahmia.fi/about/) | [Search Engine Link](https://ahmia.fi/) |
+| **HayStack** | A search engine that indexes a wide variety of public data breaches and security information. | [Intro Video (YouTube)](**[Placeholder for YouTube Link]**) | [Platform Access](**[Placeholder for HayStack Link]**) |
 | **Tor66** | A legacy-style search engine dedicated to indexing .onion links and content. |
-| **Torch** | One of the oldest and most well-known Dark Web search engines, offering access to numerous hidden service URLs. |
+| **Torch** | One of the oldest and most well-known Dark Web search engines, offering access to numerous hidden service URLs. | [Article on Torch](**[Placeholder for Article Link]**) | [Search Engine Link](**[Placeholder for Torch Onion Link]**) | 
 | **Onion Engine** | A specialized search engine built for discovering and indexing pages within the Tor network. |
 | **Telemetry** | A search tool designed to index data and conversations specifically within the Telegram messaging platform. |
 | **Library of Leaks** | A resource that collects and makes searchable various data leaks, security breaches, and compromised datasets. |
-| **HaveIbeenPwned?** | A search service to check if your email address or phone number is included in a known data breach. |
+| **HaveIbeenPwned?** | A search service to check if your email address or phone number is included in a known data breach. | [HIBP Explained](https://haveibeenpwned.com/Pwned) | [Website Search](https://haveibeenpwned.com/) |
 | **DeHashed** | A search platform offering access to an extensive database of previously compromised user credentials and breach data. |
 | **LeakOSINT** | A Telegram bot designed to assist security researchers with Open Source Intelligence (OSINT) gathering. |
 | **UniversalSearchBot** | Another specialized Telegram bot tool, likely used for broader search capabilities within encrypted messaging. |
@@ -45,7 +79,7 @@ These tools facilitate searching, browsing, and accessing data across the Dark W
 | **TorCrawl.py** | A Python-based tool designed to crawl and extract data/webpages from Tor hidden services for analysis. |
 | **Aleph** | A powerful platform for searching, aggregating, and analyzing large amounts of data, including Dark Web sources. |
 | **TOR2web** | A gateway service that allows users to access .onion hidden services using a standard web browser (without Tor). |
-| **PGP Tool** | A utility for implementing Pretty Good Privacy (PGP) to encrypt, decrypt, and digitally sign communications and files. |
+| **PGP Tool** | A utility for implementing Pretty Good Privacy (PGP) to encrypt, decrypt, and digitally sign communications. | [PGP Basics Guide](**[Placeholder for Guide Link]**) | [GPG Download](https://www.gnupg.org/download/) |
 
 ---
 
@@ -63,13 +97,18 @@ This collection represents a shift in productivity, offering AI solutions design
 | **Accessibility** | Democratizes complex skills (e.g., web design, video editing) by allowing non-experts to generate high-quality assets. | Introduces new ethical and copyright concerns regarding generated content, training data, and intellectual property. |
 | **Innovation** | Enables rapid prototyping and testing of ideas (e.g., A/B marketing copy, website layouts) that would be too costly manually. | Rapid tool proliferation leads to "AI fatigue" and difficulty in choosing and mastering the best tools for a specific workflow. |
 
-### 🛠️ Tool Categories & Examples
+### 🛠️ Tool Categories & Examples <a id="tool-guide-ai"></a>
+
+> **Why Read This?** Easily navigate to the official documentation, demo videos, or download pages for immediate use.
 
 #### **IDEAS**
-* **Copilot:** AI assistant integrated into development environments to suggest code and full functions.
-* **Perplexity:** Conversational search engine and answer engine that summarizes information with sources.
-* **ChatGPT:** Large language model (LLM) for conversation, code, writing, and complex reasoning.
-* **Claude:** High-performing LLM designed for safety and long-context processing.
+
+| Tool Name | Brief Description | Documentation / Learn More | Download / Link |
+| :--- | :--- | :--- | :--- |
+| **Copilot** | AI assistant integrated into development environments to suggest code and full functions. | [GitHub Docs](https://docs.github.com/en/copilot) | [Download VSCode Extension](**[Placeholder for Link]**) |
+| **Perplexity** | Conversational search engine and answer engine that summarizes information with sources. | [Perplexity Blog](https://blog.perplexity.ai/) | [Website Access](https://www.perplexity.ai/) |
+| **ChatGPT** | Large language model (LLM) for conversation, code, writing, and complex reasoning. | [OpenAI Docs](https://platform.openai.com/docs/models/gpt-4) | [Website Access](https://chat.openai.com/) |
+| * **Claude:** | High-performing LLM designed for safety and long-context processing. |
 
 #### **PRESENTATION**
 * **Prezi:** Platform for creating dynamic, non-linear, and zoomed presentations.
@@ -86,11 +125,14 @@ This collection represents a shift in productivity, offering AI solutions design
 * **10Web:** AI-powered website builder and hosting platform focused on WordPress acceleration.
 
 #### **WRITING**
-* **Fastread.io:** Tool focused on generating or summarizing content quickly for rapid consumption.
-* **Jasper:** AI content generator specializing in long-form content, marketing copy, and blog posts.
-* **Copy AI:** AI tool dedicated to generating marketing copy, sales letters, and social media content.
-* **TextBlaze:** Text expansion and automation tool that uses templates and shortcuts for writing.
-* **Writesonic:** AI writer for articles, blog posts, ad copy, and e-commerce product descriptions.
+
+| Tool Name | Brief Description | Documentation / Learn More | Download / Link |
+| :--- | :--- | :--- | :--- |
+| **Jasper** | AI content generator specializing in long-form content, marketing copy, and blog posts. | [Jasper Academy](**[Placeholder for Link]**) | [Website Access](**[Placeholder for Link]**) |
+| **Writesonic** | AI writer for articles, blog posts, ad copy, and e-commerce product descriptions. | [Writesonic Tutorials](**[Placeholder for Link]**) | [Website Access](**[Placeholder for Link]**) |
+| * **Fastread.io:** | Tool focused on generating or summarizing content quickly for rapid consumption. |
+| * **Copy AI:** | AI tool dedicated to generating marketing copy, sales letters, and social media content. |
+| * **TextBlaze:** | Text expansion and automation tool that uses templates and shortcuts for writing. |
 
 #### **AI MODEL**
 * **Rendernet.ai:** Platform likely focused on rendering visual or complex model outputs.
@@ -181,11 +223,15 @@ This collection represents a shift in productivity, offering AI solutions design
 * **Grammarly:** Writing assistant that checks grammar, style, and tone, now integrating AI features.
 
 #### **VOICE**
-* **Udio:** AI platform for generating realistic or expressive synthetic singing and music.
-* **Suno AI:** Generative AI tool that creates full songs, including lyrics, instrumentation, and vocals, from text prompts.
-* **VEED.IO:** Online video editor that includes features like text-to-speech and AI voiceovers.
-* **Speechify:** Text-to-speech reader that converts written content into natural-sounding audio.
-* **ElevenLabs:** Industry-leading AI voice generator for highly realistic, natural, and expressive synthetic speech.
+
+
+| Tool Name | Brief Description | Documentation / Learn More | Download / Link |
+| :--- | :--- | :--- | :--- |
+| **Suno AI** | Generative AI tool that creates full songs, including lyrics, instrumentation, and vocals, from text prompts. | [Suno YouTube](**[Placeholder for Link]**) | [Website Access](https://www.suno.ai/) |
+| **ElevenLabs** | Industry-leading AI voice generator for highly realistic, natural, and expressive synthetic speech. | [ElevenLabs Docs](**[Placeholder for Link]**) | [Website Access](https://elevenlabs.io/) |
+| * **Udio:** | AI platform for generating realistic or expressive synthetic singing and music. | 
+| * **VEED.IO:** | Online video editor that includes features like text-to-speech and AI voiceovers. | 
+| * **Speechify:** | Text-to-speech reader that converts written content into natural-sounding audio. | 
 
 #### **WEB3**
 * **Alva:** (Specific purpose unclear, likely a tool integrating AI with decentralized applications or finance.)
@@ -196,11 +242,25 @@ This collection represents a shift in productivity, offering AI solutions design
 
 ---
 
+
 ## 🔒 Disclaimer & Attribution (Crucial)
 
 **Dark Web Tools Disclaimer:** The tools listed under the "Dark Web Tools" section are presented strictly for **educational, ethical research, cybersecurity analysis, and threat intelligence (CTI) purposes.** The creator of this repository does not endorse or encourage illegal activities. Users must comply with all local laws and ethical guidelines.
 
 **Attribution:**
 * Curated and formatted by **alok-kumar8765**.
-* Images Watermarked with **github.com/alok-kumar8765** and social media call-outs.
 * Source Repository: `https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide`
+
+---
+
+## 🤝 Contribution
+
+We welcome contributions to keep this list current and accurate. Whether it's adding a new tool, updating a broken link, or suggesting better documentation, your help is appreciated!
+
+1.  **Fork** the repository.
+2.  Create your feature branch (`git checkout -b feature/AmazingTool`).
+3.  Commit your changes (`git commit -m 'feat: Add AmazingTool to AI list'`).
+4.  Push to the branch (`git push origin feature/AmazingTool`).
+5.  Open a **Pull Request**.
+
+---
