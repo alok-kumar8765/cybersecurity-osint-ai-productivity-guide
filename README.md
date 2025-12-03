@@ -55,7 +55,7 @@ These tools facilitate searching, browsing, and accessing data across the Dark W
 | **Intelligence** | Essential for gathering Critical Threat Intelligence (CTI) and verifying the exposure status of personal or organizational data. | Information gathered can be unreliable, misleading, or intentionally planted as a lure by malicious actors. |
 | **Privacy** | Tools like TOR offer a significant layer of anonymity and privacy for researchers and users in censored regions. | The underlying infrastructure (Tor) can be slow and is frequently monitored by state actors and security services. |
 
-### 🔍 Tool Guide (Dark Web) <a id="tool-guide-dark-web"></a
+### 🔍 Tool Guide (Dark Web) <a id="tool-guide-dark-web"></a>
 
 > **Why Read This?** This guide provides the most direct and necessary links for launching your research with each tool, saving time on setup and verification.
 
