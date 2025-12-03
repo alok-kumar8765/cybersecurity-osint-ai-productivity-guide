@@ -25,6 +25,7 @@ A curated, visual guide to two critical domains: specialized tools for cybersecu
         <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=flat-square&logo=facebook" alt="Facebook"/>
     </a>
 </p>
+
 ---
 
 ## 🧭 Table of Contents
