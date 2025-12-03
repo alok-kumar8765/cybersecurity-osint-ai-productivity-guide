@@ -7,13 +7,13 @@ A visual, curated list of essential Dark Web/OSINT search engines and 100+ power
 A curated, visual guide to two critical domains: specialized tools for cybersecurity intelligence (OSINT on the Dark Web) and next-generation productivity tools powered by Artificial Intelligence.
 
 <p align="center">
-    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/stargazers">
+    <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/stargazers">
         <img src="https://img.shields.io/github/stars/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Star" alt="GitHub Stars"/>
     </a>
-    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/forks">
+    <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/forks">
         <img src="https://img.shields.io/github/forks/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Fork" alt="GitHub Forks"/>
     </a>
-    <a href="https://github.com/alok-kumar8765/darkweb-ai-tools-list/watchers">
+    <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/watchers">
         <img src="https://img.shields.io/github/watchers/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Watch" alt="GitHub Watchers"/>
     </a>
     <img src="https://img.shields.io/badge/Status-Actively%20Maintained-green" alt="Status Badge"/>
