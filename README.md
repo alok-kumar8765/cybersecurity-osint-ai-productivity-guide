@@ -10,7 +10,7 @@ A curated, visual guide to two critical domains: specialized tools for cybersecu
 
 ## 1. 🕵️ Dark Web Tools
 
-<img src="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/blob/IMG_175.jpg" width="50%" height="50%">
+<img src="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/blob/main/IMG_175.jpg" width="50%" height="50%">
 
 These tools facilitate searching, browsing, and accessing data across the Dark Web (specifically, Tor hidden services) and public data breach sources. They are primarily used for ethical security research, threat intelligence gathering (CTI), and digital forensics.
 
@@ -51,7 +51,7 @@ These tools facilitate searching, browsing, and accessing data across the Dark W
 
 ## 2. 🤖 100+ AI Tools (Productivity & Automation)
 
-<img src="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/blob/IMG_176.jpg" width="50%" height="50%">
+<img src="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/blob/main/IMG_176.jpg" width="50%" height="50%">
 
 This collection represents a shift in productivity, offering AI solutions designed to automate, accelerate, and augment tasks across virtually every professional domain—from content generation and coding to marketing and video production.
 
