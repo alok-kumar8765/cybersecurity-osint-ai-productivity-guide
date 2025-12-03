@@ -8,13 +8,13 @@ A curated, visual guide to two critical domains: specialized tools for cybersecu
 
 <p align="center">
     <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/stargazers">
-        <img src="https://img.shields.io/github/stars/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Star" alt="GitHub Stars"/>
+        <img src="https://img.shields.io/github/stars/alok-kumar8765/cybersecurity-osint-ai-productivity-guide?style=social&label=Star" alt="GitHub Stars"/>
     </a>
     <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/forks">
-        <img src="https://img.shields.io/github/forks/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Fork" alt="GitHub Forks"/>
+        <img src="https://img.shields.io/github/forks/alok-kumar8765/cybersecurity-osint-ai-productivity-guide?style=social&label=Fork" alt="GitHub Forks"/>
     </a>
     <a href="https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide/watchers">
-        <img src="https://img.shields.io/github/watchers/alok-kumar8765/darkweb-ai-tools-list?style=social&label=Watch" alt="GitHub Watchers"/>
+        <img src="https://img.shields.io/github/watchers/alok-kumar8765/cybersecurity-osint-ai-productivity-guide?style=social&label=Watch" alt="GitHub Watchers"/>
     </a>
     <img src="https://img.shields.io/badge/Status-Actively%20Maintained-green" alt="Status Badge"/>
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs Welcome Badge"/>
